@@ -1,0 +1,15 @@
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\bin\Debug\net8.0\microsoftLearn-1.exe
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\bin\Debug\net8.0\microsoftLearn-1.deps.json
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\bin\Debug\net8.0\microsoftLearn-1.runtimeconfig.json
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\bin\Debug\net8.0\microsoftLearn-1.dll
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\bin\Debug\net8.0\microsoftLearn-1.pdb
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.sourcelink.json
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.dll
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\refint\microsoftLearn-1.dll
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.pdb
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\microsoftLearn-1.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\dotnet\microsoftLearn-1\obj\Debug\net8.0\ref\microsoftLearn-1.dll
